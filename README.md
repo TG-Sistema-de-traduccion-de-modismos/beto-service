@@ -33,7 +33,7 @@ beto-service/
     ├── infrastructure/
     │   └── routes.py        # Endpoints HTTP
     ├── application/
-    │   └── service.py       # Lógica de comunicación con beto-model
+    │   └── model_client.py       # Lógica de comunicación con beto-model
     ├── core/
     │   ├── config.py        # Configuración
     │   └── logging_config.py
